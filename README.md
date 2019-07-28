@@ -29,6 +29,19 @@ BiliBIli：https://www.bilibili.com/video/av59184073/?p=1
 - 学习资源推荐
 
 **Lesson2-Rust数据类型**
+
+BiliBili:
+
+​	 https://www.bilibili.com/video/av59184073/?p=2   
+
+​	 https://www.bilibili.com/video/av59184073/?p=3
+
+Youtube：
+
+​	https://youtu.be/KgMqF01tUbI
+
+​	https://youtu.be/J0uBNML_NIE
+
 - 基本数据类型
 - 复合数据类型
 - 切片
