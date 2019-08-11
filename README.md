@@ -54,7 +54,7 @@ Youtube：
 - Rust的循环语句
 对`loop`、`while`、`for`语法进行讲解
 - 迭代器
-详细叙述迭代，以及阐明外部迭代和内部迭代
+详细叙述迭代器模式，以及阐明外部迭代和内部迭代
 
 **Lesson4-Struct/Trait**
 本章主要讲解`struct`和`trait`的特性及语法
