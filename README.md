@@ -56,10 +56,29 @@ Youtube：
 - 迭代器
 详细叙述迭代器模式，以及阐明外部迭代和内部迭代
 
+BiliBili:
+​	https://www.bilibili.com/video/av59184073?p=4
+
+Youtube：
+​	https://youtu.be/YuIEZx6sVSY
+
+
 **Lesson4-Struct/Trait**
 本章主要讲解`struct`和`trait`的特性及语法
-- Struct
-- Trait
+- struct
+- trait概述
+- Self
+- 静态方法
+- 扩展方法
+- trait的约束与继承
+- trait alias
+BiliBili:
+
+​	https://www.bilibili.com/video/av82089052
+
+Youtube：
+
+​	https://youtu.be/GdR2uiPIbsM
 
 **Lesson5-函数/闭包**
 - 函数
