@@ -64,6 +64,7 @@ Youtube：
 
 
 **Lesson4-Struct/Trait**
+
 本章主要讲解`struct`和`trait`的特性及语法
 - struct
 - trait概述
@@ -72,6 +73,7 @@ Youtube：
 - 扩展方法
 - trait的约束与继承
 - trait alias
+
 BiliBili:
 
 ​	https://www.bilibili.com/video/av82089052
@@ -79,6 +81,7 @@ BiliBili:
 Youtube：
 
 ​	https://youtu.be/GdR2uiPIbsM
+
 
 **Lesson5-函数/闭包**
 - 函数
